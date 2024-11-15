@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\APItest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|c:\\users\\user\\source\\repos\\apitest\\apitest\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|solutionrelative:apitest\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|c:\\users\\user\\source\\repos\\apitest\\apitest\\models\\student\\createstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|solutionrelative:apitest\\models\\student\\createstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|c:\\users\\user\\source\\repos\\apitest\\apitest\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|solutionrelative:apitest\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|c:\\users\\user\\source\\repos\\apitest\\apitest\\models\\movie\\createmoviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|solutionrelative:apitest\\models\\movie\\createmoviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|c:\\users\\user\\source\\repos\\apitest\\apitest\\entities\\movieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|solutionrelative:apitest\\entities\\movieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|c:\\users\\user\\source\\repos\\apitest\\apitest\\models\\movie\\getmoviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|solutionrelative:apitest\\models\\movie\\getmoviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|c:\\users\\user\\source\\repos\\apitest\\apitest\\entities\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|solutionrelative:apitest\\entities\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|c:\\users\\user\\source\\repos\\apitest\\apitest\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|solutionrelative:apitest\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|c:\\users\\user\\source\\repos\\apitest\\apitest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|solutionrelative:apitest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|c:\\users\\user\\source\\repos\\apitest\\apitest\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|solutionrelative:apitest\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|c:\\users\\user\\source\\repos\\apitest\\apitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|solutionrelative:apitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|c:\\users\\user\\source\\repos\\apitest\\apitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|solutionrelative:apitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|c:\\users\\user\\source\\repos\\apitest\\apitest\\models\\movie\\moviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE3A67C-C374-4FE1-B6EB-B5A974A89967}|APItest\\APItest.csproj|solutionrelative:apitest\\models\\movie\\moviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,31 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "APItest\\Models\\UserModel.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Models\\UserModel.cs",
-              "RelativeToolTip": "APItest\\Models\\UserModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABZAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CreateStudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Models\\Student\\CreateStudentModel.cs",
+              "RelativeDocumentMoniker": "APItest\\Models\\Student\\CreateStudentModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Models\\Student\\CreateStudentModel.cs",
+              "RelativeToolTip": "APItest\\Models\\Student\\CreateStudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T12:56:52.541Z"
+              "WhenOpened": "2024-11-15T13:23:23.706Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MovieController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Controllers\\MovieController.cs",
-              "RelativeDocumentMoniker": "APItest\\Controllers\\MovieController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Controllers\\MovieController.cs",
-              "RelativeToolTip": "APItest\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCcAAAASAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "StudentEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Entities\\StudentEntity.cs",
+              "RelativeDocumentMoniker": "APItest\\Entities\\StudentEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Entities\\StudentEntity.cs",
+              "RelativeToolTip": "APItest\\Entities\\StudentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T12:52:41.97Z",
+              "WhenOpened": "2024-11-15T13:04:00.584Z",
               "EditorCaption": ""
             },
             {
@@ -85,97 +66,35 @@
               "RelativeDocumentMoniker": "APItest\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Data\\AppDbContext.cs",
               "RelativeToolTip": "APItest\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T11:51:55.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "APItest\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "APItest\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:21:43.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MovieEntity.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Entities\\MovieEntity.cs",
-              "RelativeDocumentMoniker": "APItest\\Entities\\MovieEntity.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Entities\\MovieEntity.cs",
-              "RelativeToolTip": "APItest\\Entities\\MovieEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "APItest\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "APItest\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T13:05:15.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateMovieModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Models\\Movie\\CreateMovieModel.cs",
-              "RelativeDocumentMoniker": "APItest\\Models\\Movie\\CreateMovieModel.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Models\\Movie\\CreateMovieModel.cs",
-              "RelativeToolTip": "APItest\\Models\\Movie\\CreateMovieModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T12:57:04.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\appsettings.json",
-              "RelativeDocumentMoniker": "APItest\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\appsettings.json",
-              "RelativeToolTip": "APItest\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-11T12:28:21.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Program.cs",
-              "RelativeDocumentMoniker": "APItest\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Program.cs",
-              "RelativeToolTip": "APItest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T12:35:07.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "APItest\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Controllers\\UserController.cs",
-              "RelativeToolTip": "APItest\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAkwF4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T12:55:23.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MovieModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Models\\Movie\\MovieModel.cs",
-              "RelativeDocumentMoniker": "APItest\\Models\\Movie\\MovieModel.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Models\\Movie\\MovieModel.cs",
-              "RelativeToolTip": "APItest\\Models\\Movie\\MovieModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T12:53:51.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetMovieModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Models\\Movie\\GetMovieModel.cs",
-              "RelativeDocumentMoniker": "APItest\\Models\\Movie\\GetMovieModel.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\APItest\\APItest\\Models\\Movie\\GetMovieModel.cs",
-              "RelativeToolTip": "APItest\\Models\\Movie\\GetMovieModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA0wBoAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T12:59:13.642Z",
+              "WhenOpened": "2024-11-15T13:53:33.453Z",
               "EditorCaption": ""
             }
           ]

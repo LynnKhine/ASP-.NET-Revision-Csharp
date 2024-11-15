@@ -2,7 +2,6 @@
 using APItest.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using APItest.Models;
 using APItest.Models.Movie;
 
 namespace APItest.Controllers;

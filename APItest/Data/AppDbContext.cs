@@ -9,6 +9,8 @@ namespace APItest.Data;
         // Define your tables here as DbSet<T>
         public DbSet<MovieEntity> MovieDbSet { get; set; }
 
+        public DbSet<StudentEntity> StudentDbSet { get; set; }
+
         // You can override OnModelCreating if you need additional configuration
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

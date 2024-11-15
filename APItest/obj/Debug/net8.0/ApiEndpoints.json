@@ -89,6 +89,115 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "APItest.Controllers.StudentController",
+    "Method": "CreateStudent",
+    "RelativePath": "api/Student/CreateStudent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "APItest.Models.Student.CreateStudentRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APItest.Controllers.StudentController",
+    "Method": "DeleteStudentById",
+    "RelativePath": "api/Student/DeleteStudentById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APItest.Controllers.StudentController",
+    "Method": "GetStudentById",
+    "RelativePath": "api/Student/GetStudentById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APItest.Controllers.StudentController",
+    "Method": "GetStudentList",
+    "RelativePath": "api/Student/GetStudentList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APItest.Controllers.StudentController",
+    "Method": "UpdateStudent",
+    "RelativePath": "api/Student/UpdateStudent",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "idnumber",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "phone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "address",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "updateduserid",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "updateddatetime",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "APItest.Controllers.UserController",
     "Method": "GetHelloWorld",
     "RelativePath": "User/GetHelloWorld",
